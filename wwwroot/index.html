@@ -1,0 +1,32 @@
+<!doctype html>
+<html lang="pt-BR">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Casa Clara | Finanças</title>
+  <link rel="stylesheet" href="/styles.css">
+</head>
+<body>
+  <main class="shell">
+    <aside class="sidebar">
+      <div class="brand"><span class="brand-mark">cc</span><span>casa clara</span></div>
+      <p class="eyebrow">Seu dinheiro, com clareza</p>
+      <nav>
+        <button class="nav-item active" data-view="dashboard"><span>◒</span> Visão geral</button>
+        <button class="nav-item" data-view="expenses"><span>↗</span> Despesas mensais</button>
+        <button class="nav-item" data-view="incomes"><span>↙</span> Ganhos</button>
+        <button class="nav-item" data-view="categories"><span>≡</span> Categorias</button>
+      </nav>
+      <div class="sidebar-note"><span class="dot"></span><span>Dados locais<br><small>salvos com segurança</small></span></div>
+    </aside>
+    <section class="content">
+      <header class="topbar">
+        <div><p class="eyebrow">Painel financeiro</p><h1 id="page-title">Visão geral</h1></div>
+        <div class="top-actions"><label class="month-picker">Mês <input id="month" type="month"></label></div>
+      </header>
+      <div id="app"></div>
+    </section>
+  </main>
+  <script src="/app.js"></script>
+</body>
+</html>

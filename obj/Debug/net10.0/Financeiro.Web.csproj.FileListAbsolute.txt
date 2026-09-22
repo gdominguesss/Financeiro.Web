@@ -1,0 +1,65 @@
+G:\Meu Drive\Projetos\Agente financeiro\Financeiro.Web\bin\Debug\net10.0\appsettings.Development.json
+G:\Meu Drive\Projetos\Agente financeiro\Financeiro.Web\bin\Debug\net10.0\appsettings.json
+G:\Meu Drive\Projetos\Agente financeiro\Financeiro.Web\bin\Debug\net10.0\Financeiro.Web.staticwebassets.runtime.json
+G:\Meu Drive\Projetos\Agente financeiro\Financeiro.Web\bin\Debug\net10.0\Financeiro.Web.staticwebassets.endpoints.json
+G:\Meu Drive\Projetos\Agente financeiro\Financeiro.Web\obj\Debug\net10.0\rpswa.dswa.cache.json
+G:\Meu Drive\Projetos\Agente financeiro\Financeiro.Web\obj\Debug\net10.0\Financeiro.Web.GeneratedMSBuildEditorConfig.editorconfig
+G:\Meu Drive\Projetos\Agente financeiro\Financeiro.Web\obj\Debug\net10.0\Financeiro.Web.AssemblyInfoInputs.cache
+G:\Meu Drive\Projetos\Agente financeiro\Financeiro.Web\obj\Debug\net10.0\Financeiro.Web.AssemblyInfo.cs
+G:\Meu Drive\Projetos\Agente financeiro\Financeiro.Web\obj\Debug\net10.0\Financeiro.Web.csproj.CoreCompileInputs.cache
+G:\Meu Drive\Projetos\Agente financeiro\Financeiro.Web\obj\Debug\net10.0\Financeiro.Web.MvcApplicationPartsAssemblyInfo.cache
+G:\Meu Drive\Projetos\Agente financeiro\Financeiro.Web\obj\Debug\net10.0\rjimswa.dswa.cache.json
+G:\Meu Drive\Projetos\Agente financeiro\Financeiro.Web\obj\Debug\net10.0\rjsmrazor.dswa.cache.json
+G:\Meu Drive\Projetos\Agente financeiro\Financeiro.Web\obj\Debug\net10.0\rjsmcshtml.dswa.cache.json
+G:\Meu Drive\Projetos\Agente financeiro\Financeiro.Web\obj\Debug\net10.0\scopedcss\bundle\Financeiro.Web.styles.css
+G:\Meu Drive\Projetos\Agente financeiro\Financeiro.Web\obj\Debug\net10.0\staticwebassets.build.json
+G:\Meu Drive\Projetos\Agente financeiro\Financeiro.Web\obj\Debug\net10.0\staticwebassets.build.json.cache
+G:\Meu Drive\Projetos\Agente financeiro\Financeiro.Web\obj\Debug\net10.0\staticwebassets.development.json
+G:\Meu Drive\Projetos\Agente financeiro\Financeiro.Web\obj\Debug\net10.0\staticwebassets.build.endpoints.json
+G:\Meu Drive\Projetos\Agente financeiro\Financeiro.Web\obj\Debug\net10.0\swae.build.ex.cache
+G:\Meu Drive\Projetos\Agente financeiro\Financeiro.Web\obj\Debug\net10.0\Financeiro.Web.dll
+G:\Meu Drive\Projetos\Agente financeiro\Financeiro.Web\obj\Debug\net10.0\refint\Financeiro.Web.dll
+G:\Meu Drive\Projetos\Agente financeiro\Financeiro.Web\obj\Debug\net10.0\Financeiro.Web.pdb
+G:\Meu Drive\Projetos\Agente financeiro\Financeiro.Web\bin\Debug\net10.0\Financeiro.Web.deps.json
+G:\Meu Drive\Projetos\Agente financeiro\Financeiro.Web\bin\Debug\net10.0\Financeiro.Web.runtimeconfig.json
+G:\Meu Drive\Projetos\Agente financeiro\Financeiro.Web\bin\Debug\net10.0\Financeiro.Web.dll
+G:\Meu Drive\Projetos\Agente financeiro\Financeiro.Web\bin\Debug\net10.0\Financeiro.Web.pdb
+G:\Meu Drive\Projetos\Agente financeiro\Financeiro.Web\obj\Debug\net10.0\Financeiro.Web.genruntimeconfig.cache
+G:\Meu Drive\Projetos\Agente financeiro\Financeiro.Web\obj\Debug\net10.0\ref\Financeiro.Web.dll
+G:\Meu Drive\Projetos\Agente financeiro\Financeiro.Web\bin\Debug\net10.0\App_Data\finance-data.json
+G:\Meu Drive\Projetos\Agente financeiro\Financeiro.Web\obj\Debug\net10.0\compressed\ixd1d6nl0z-{0}-b4b8zsr8bx-b4b8zsr8bx.gz
+G:\Meu Drive\Projetos\Agente financeiro\Financeiro.Web\obj\Debug\net10.0\compressed\veq4yb6pa7-{0}-gy9fpoxkrm-gy9fpoxkrm.gz
+G:\Meu Drive\Projetos\Agente financeiro\Financeiro.Web\obj\Debug\net10.0\compressed\hzvlb696fq-{0}-mi0yarmphh-mi0yarmphh.gz
+C:\Users\gustavo.domingues\Projetos\Financeiro.Web\bin\Debug\net10.0\appsettings.Development.json
+C:\Users\gustavo.domingues\Projetos\Financeiro.Web\bin\Debug\net10.0\appsettings.json
+C:\Users\gustavo.domingues\Projetos\Financeiro.Web\bin\Debug\net10.0\App_Data\finance-data.json
+C:\Users\gustavo.domingues\Projetos\Financeiro.Web\bin\Debug\net10.0\Financeiro.Web.staticwebassets.runtime.json
+C:\Users\gustavo.domingues\Projetos\Financeiro.Web\bin\Debug\net10.0\Financeiro.Web.staticwebassets.endpoints.json
+C:\Users\gustavo.domingues\Projetos\Financeiro.Web\bin\Debug\net10.0\Financeiro.Web.exe
+C:\Users\gustavo.domingues\Projetos\Financeiro.Web\bin\Debug\net10.0\Financeiro.Web.deps.json
+C:\Users\gustavo.domingues\Projetos\Financeiro.Web\bin\Debug\net10.0\Financeiro.Web.runtimeconfig.json
+C:\Users\gustavo.domingues\Projetos\Financeiro.Web\bin\Debug\net10.0\Financeiro.Web.dll
+C:\Users\gustavo.domingues\Projetos\Financeiro.Web\bin\Debug\net10.0\Financeiro.Web.pdb
+C:\Users\gustavo.domingues\Projetos\Financeiro.Web\obj\Debug\net10.0\rpswa.dswa.cache.json
+C:\Users\gustavo.domingues\Projetos\Financeiro.Web\obj\Debug\net10.0\Financeiro.Web.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gustavo.domingues\Projetos\Financeiro.Web\obj\Debug\net10.0\Financeiro.Web.AssemblyInfoInputs.cache
+C:\Users\gustavo.domingues\Projetos\Financeiro.Web\obj\Debug\net10.0\Financeiro.Web.AssemblyInfo.cs
+C:\Users\gustavo.domingues\Projetos\Financeiro.Web\obj\Debug\net10.0\Financeiro.Web.csproj.CoreCompileInputs.cache
+C:\Users\gustavo.domingues\Projetos\Financeiro.Web\obj\Debug\net10.0\Financeiro.Web.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\gustavo.domingues\Projetos\Financeiro.Web\obj\Debug\net10.0\rjimswa.dswa.cache.json
+C:\Users\gustavo.domingues\Projetos\Financeiro.Web\obj\Debug\net10.0\rjsmrazor.dswa.cache.json
+C:\Users\gustavo.domingues\Projetos\Financeiro.Web\obj\Debug\net10.0\rjsmcshtml.dswa.cache.json
+C:\Users\gustavo.domingues\Projetos\Financeiro.Web\obj\Debug\net10.0\scopedcss\bundle\Financeiro.Web.styles.css
+C:\Users\gustavo.domingues\Projetos\Financeiro.Web\obj\Debug\net10.0\compressed\hzvlb696fq-{0}-mi0yarmphh-mi0yarmphh.gz
+C:\Users\gustavo.domingues\Projetos\Financeiro.Web\obj\Debug\net10.0\compressed\veq4yb6pa7-{0}-gy9fpoxkrm-gy9fpoxkrm.gz
+C:\Users\gustavo.domingues\Projetos\Financeiro.Web\obj\Debug\net10.0\compressed\ixd1d6nl0z-{0}-b4b8zsr8bx-b4b8zsr8bx.gz
+C:\Users\gustavo.domingues\Projetos\Financeiro.Web\obj\Debug\net10.0\staticwebassets.build.json
+C:\Users\gustavo.domingues\Projetos\Financeiro.Web\obj\Debug\net10.0\staticwebassets.build.json.cache
+C:\Users\gustavo.domingues\Projetos\Financeiro.Web\obj\Debug\net10.0\staticwebassets.development.json
+C:\Users\gustavo.domingues\Projetos\Financeiro.Web\obj\Debug\net10.0\staticwebassets.build.endpoints.json
+C:\Users\gustavo.domingues\Projetos\Financeiro.Web\obj\Debug\net10.0\swae.build.ex.cache
+C:\Users\gustavo.domingues\Projetos\Financeiro.Web\obj\Debug\net10.0\Financeiro.Web.dll
+C:\Users\gustavo.domingues\Projetos\Financeiro.Web\obj\Debug\net10.0\refint\Financeiro.Web.dll
+C:\Users\gustavo.domingues\Projetos\Financeiro.Web\obj\Debug\net10.0\Financeiro.Web.pdb
+C:\Users\gustavo.domingues\Projetos\Financeiro.Web\obj\Debug\net10.0\Financeiro.Web.genruntimeconfig.cache
+C:\Users\gustavo.domingues\Projetos\Financeiro.Web\obj\Debug\net10.0\ref\Financeiro.Web.dll

@@ -1,0 +1,1868 @@
+{
+  "Expenses": [
+    {
+      "Id": "c8a70bc2-8c2e-4831-a326-6285ccb6f1da",
+      "RecurringId": "c7f371a6-d0e4-4af4-8ebe-0a61c1daa647",
+      "IsRecurring": true,
+      "Month": "2026-10",
+      "Description": "Spotify",
+      "PaymentMethod": "Cr\u00E9dito",
+      "Installments": "",
+      "ExpenseType": "Essencial",
+      "Category": "Mensalidades",
+      "Value": 13
+    },
+    {
+      "Id": "d881ecbb-a8e0-44d9-bb09-f67dbcfb4c4d",
+      "RecurringId": "c7f371a6-d0e4-4af4-8ebe-0a61c1daa647",
+      "IsRecurring": true,
+      "Month": "2026-11",
+      "Description": "Spotify",
+      "PaymentMethod": "Cr\u00E9dito",
+      "Installments": "",
+      "ExpenseType": "Essencial",
+      "Category": "Mensalidades",
+      "Value": 13
+    },
+    {
+      "Id": "f884b3ff-618e-48c5-9952-a66cbdfb748f",
+      "RecurringId": "c7f371a6-d0e4-4af4-8ebe-0a61c1daa647",
+      "IsRecurring": true,
+      "Month": "2026-12",
+      "Description": "Spotify",
+      "PaymentMethod": "Cr\u00E9dito",
+      "Installments": "",
+      "ExpenseType": "Essencial",
+      "Category": "Mensalidades",
+      "Value": 13
+    },
+    {
+      "Id": "a274fef8-60a4-4662-a43f-eeaa0c588c78",
+      "RecurringId": "c7f371a6-d0e4-4af4-8ebe-0a61c1daa647",
+      "IsRecurring": true,
+      "Month": "2027-01",
+      "Description": "Spotify",
+      "PaymentMethod": "Cr\u00E9dito",
+      "Installments": "",
+      "ExpenseType": "Essencial",
+      "Category": "Mensalidades",
+      "Value": 13
+    },
+    {
+      "Id": "e608a77c-8d2b-4f4e-852c-d743b619f5fa",
+      "RecurringId": "c7f371a6-d0e4-4af4-8ebe-0a61c1daa647",
+      "IsRecurring": true,
+      "Month": "2027-02",
+      "Description": "Spotify",
+      "PaymentMethod": "Cr\u00E9dito",
+      "Installments": "",
+      "ExpenseType": "Essencial",
+      "Category": "Mensalidades",
+      "Value": 13
+    },
+    {
+      "Id": "df624f1e-e2f9-48d7-b003-7196fd6b533e",
+      "RecurringId": "c7f371a6-d0e4-4af4-8ebe-0a61c1daa647",
+      "IsRecurring": true,
+      "Month": "2027-03",
+      "Description": "Spotify",
+      "PaymentMethod": "Cr\u00E9dito",
+      "Installments": "",
+      "ExpenseType": "Essencial",
+      "Category": "Mensalidades",
+      "Value": 13
+    },
+    {
+      "Id": "34cd5d7a-7c0e-44eb-8638-715baad772ad",
+      "RecurringId": "c7f371a6-d0e4-4af4-8ebe-0a61c1daa647",
+      "IsRecurring": true,
+      "Month": "2027-04",
+      "Description": "Spotify",
+      "PaymentMethod": "Cr\u00E9dito",
+      "Installments": "",
+      "ExpenseType": "Essencial",
+      "Category": "Mensalidades",
+      "Value": 13
+    },
+    {
+      "Id": "472adc84-56f7-4ec0-bf18-91197a0d4a11",
+      "RecurringId": "c7f371a6-d0e4-4af4-8ebe-0a61c1daa647",
+      "IsRecurring": true,
+      "Month": "2027-05",
+      "Description": "Spotify",
+      "PaymentMethod": "Cr\u00E9dito",
+      "Installments": "",
+      "ExpenseType": "Essencial",
+      "Category": "Mensalidades",
+      "Value": 13
+    },
+    {
+      "Id": "c92c7157-9814-46d1-8180-6070626fe714",
+      "RecurringId": "c7f371a6-d0e4-4af4-8ebe-0a61c1daa647",
+      "IsRecurring": true,
+      "Month": "2027-06",
+      "Description": "Spotify",
+      "PaymentMethod": "Cr\u00E9dito",
+      "Installments": "",
+      "ExpenseType": "Essencial",
+      "Category": "Mensalidades",
+      "Value": 13
+    },
+    {
+      "Id": "72c73c18-d8b9-4c40-8311-23ca54cf5b34",
+      "RecurringId": "c7f371a6-d0e4-4af4-8ebe-0a61c1daa647",
+      "IsRecurring": true,
+      "Month": "2027-07",
+      "Description": "Spotify",
+      "PaymentMethod": "Cr\u00E9dito",
+      "Installments": "",
+      "ExpenseType": "Essencial",
+      "Category": "Mensalidades",
+      "Value": 13
+    },
+    {
+      "Id": "c240f07f-2710-445a-ad48-1d86cf82a2d5",
+      "RecurringId": "c7f371a6-d0e4-4af4-8ebe-0a61c1daa647",
+      "IsRecurring": true,
+      "Month": "2027-08",
+      "Description": "Spotify",
+      "PaymentMethod": "Cr\u00E9dito",
+      "Installments": "",
+      "ExpenseType": "Essencial",
+      "Category": "Mensalidades",
+      "Value": 13
+    },
+    {
+      "Id": "b3583895-4f53-448b-8dc9-a67d38161b1d",
+      "RecurringId": "c7f371a6-d0e4-4af4-8ebe-0a61c1daa647",
+      "IsRecurring": true,
+      "Month": "2027-09",
+      "Description": "Spotify",
+      "PaymentMethod": "Cr\u00E9dito",
+      "Installments": "",
+      "ExpenseType": "Essencial",
+      "Category": "Mensalidades",
+      "Value": 13
+    },
+    {
+      "Id": "bb7745da-9f35-44a0-bda6-ebf2f1aeb665",
+      "RecurringId": "c7f371a6-d0e4-4af4-8ebe-0a61c1daa647",
+      "IsRecurring": true,
+      "Month": "2027-10",
+      "Description": "Spotify",
+      "PaymentMethod": "Cr\u00E9dito",
+      "Installments": "",
+      "ExpenseType": "Essencial",
+      "Category": "Mensalidades",
+      "Value": 13
+    },
+    {
+      "Id": "b2afc812-5393-46d9-9f25-02f4a009249c",
+      "RecurringId": "c7f371a6-d0e4-4af4-8ebe-0a61c1daa647",
+      "IsRecurring": true,
+      "Month": "2027-11",
+      "Description": "Spotify",
+      "PaymentMethod": "Cr\u00E9dito",
+      "Installments": "",
+      "ExpenseType": "Essencial",
+      "Category": "Mensalidades",
+      "Value": 13
+    },
+    {
+      "Id": "e785e87a-40d9-435a-8179-4de86f5d78d5",
+      "RecurringId": "c7f371a6-d0e4-4af4-8ebe-0a61c1daa647",
+      "IsRecurring": true,
+      "Month": "2027-12",
+      "Description": "Spotify",
+      "PaymentMethod": "Cr\u00E9dito",
+      "Installments": "",
+      "ExpenseType": "Essencial",
+      "Category": "Mensalidades",
+      "Value": 13
+    },
+    {
+      "Id": "b444cdc8-ff42-48ba-959b-d081cda08d04",
+      "RecurringId": "c7f371a6-d0e4-4af4-8ebe-0a61c1daa647",
+      "IsRecurring": true,
+      "Month": "2028-01",
+      "Description": "Spotify",
+      "PaymentMethod": "Cr\u00E9dito",
+      "Installments": "",
+      "ExpenseType": "Essencial",
+      "Category": "Mensalidades",
+      "Value": 13
+    },
+    {
+      "Id": "7b178286-cb9b-4f97-99c3-94282a977b98",
+      "RecurringId": "c7f371a6-d0e4-4af4-8ebe-0a61c1daa647",
+      "IsRecurring": true,
+      "Month": "2028-02",
+      "Description": "Spotify",
+      "PaymentMethod": "Cr\u00E9dito",
+      "Installments": "",
+      "ExpenseType": "Essencial",
+      "Category": "Mensalidades",
+      "Value": 13
+    },
+    {
+      "Id": "4318f4d2-7659-4f07-9c5c-a979bebfce46",
+      "RecurringId": "c7f371a6-d0e4-4af4-8ebe-0a61c1daa647",
+      "IsRecurring": true,
+      "Month": "2028-03",
+      "Description": "Spotify",
+      "PaymentMethod": "Cr\u00E9dito",
+      "Installments": "",
+      "ExpenseType": "Essencial",
+      "Category": "Mensalidades",
+      "Value": 13
+    },
+    {
+      "Id": "7156c6ea-e465-496e-aca4-607bac24eaa7",
+      "RecurringId": "c7f371a6-d0e4-4af4-8ebe-0a61c1daa647",
+      "IsRecurring": true,
+      "Month": "2028-04",
+      "Description": "Spotify",
+      "PaymentMethod": "Cr\u00E9dito",
+      "Installments": "",
+      "ExpenseType": "Essencial",
+      "Category": "Mensalidades",
+      "Value": 13
+    },
+    {
+      "Id": "58da82e0-1b63-48c7-a5fe-811fe38635f9",
+      "RecurringId": "c7f371a6-d0e4-4af4-8ebe-0a61c1daa647",
+      "IsRecurring": true,
+      "Month": "2028-05",
+      "Description": "Spotify",
+      "PaymentMethod": "Cr\u00E9dito",
+      "Installments": "",
+      "ExpenseType": "Essencial",
+      "Category": "Mensalidades",
+      "Value": 13
+    },
+    {
+      "Id": "310ce52d-7dad-44ba-9eda-0b032807894e",
+      "RecurringId": "c7f371a6-d0e4-4af4-8ebe-0a61c1daa647",
+      "IsRecurring": true,
+      "Month": "2028-06",
+      "Description": "Spotify",
+      "PaymentMethod": "Cr\u00E9dito",
+      "Installments": "",
+      "ExpenseType": "Essencial",
+      "Category": "Mensalidades",
+      "Value": 13
+    },
+    {
+      "Id": "c45d15aa-5a8d-4360-82d6-6d9b181ef21d",
+      "RecurringId": "c7f371a6-d0e4-4af4-8ebe-0a61c1daa647",
+      "IsRecurring": true,
+      "Month": "2028-07",
+      "Description": "Spotify",
+      "PaymentMethod": "Cr\u00E9dito",
+      "Installments": "",
+      "ExpenseType": "Essencial",
+      "Category": "Mensalidades",
+      "Value": 13
+    },
+    {
+      "Id": "309b151b-8946-4f47-9eda-8957bc157947",
+      "RecurringId": "c7f371a6-d0e4-4af4-8ebe-0a61c1daa647",
+      "IsRecurring": true,
+      "Month": "2028-08",
+      "Description": "Spotify",
+      "PaymentMethod": "Cr\u00E9dito",
+      "Installments": "",
+      "ExpenseType": "Essencial",
+      "Category": "Mensalidades",
+      "Value": 13
+    },
+    {
+      "Id": "b9c46ec3-87f1-473b-b640-38a926bb5eb4",
+      "RecurringId": "c7f371a6-d0e4-4af4-8ebe-0a61c1daa647",
+      "IsRecurring": true,
+      "Month": "2028-09",
+      "Description": "Spotify",
+      "PaymentMethod": "Cr\u00E9dito",
+      "Installments": "",
+      "ExpenseType": "Essencial",
+      "Category": "Mensalidades",
+      "Value": 13
+    },
+    {
+      "Id": "60521303-4653-41b3-b069-5124977013eb",
+      "RecurringId": "c7f371a6-d0e4-4af4-8ebe-0a61c1daa647",
+      "IsRecurring": true,
+      "Month": "2028-10",
+      "Description": "Spotify",
+      "PaymentMethod": "Cr\u00E9dito",
+      "Installments": "",
+      "ExpenseType": "Essencial",
+      "Category": "Mensalidades",
+      "Value": 13
+    },
+    {
+      "Id": "09deb43d-7809-429e-a399-f00dbe2f3162",
+      "RecurringId": "c7f371a6-d0e4-4af4-8ebe-0a61c1daa647",
+      "IsRecurring": true,
+      "Month": "2028-11",
+      "Description": "Spotify",
+      "PaymentMethod": "Cr\u00E9dito",
+      "Installments": "",
+      "ExpenseType": "Essencial",
+      "Category": "Mensalidades",
+      "Value": 13
+    },
+    {
+      "Id": "077e4ceb-d162-4e33-a1cf-3031668ab35e",
+      "RecurringId": "c7f371a6-d0e4-4af4-8ebe-0a61c1daa647",
+      "IsRecurring": true,
+      "Month": "2028-12",
+      "Description": "Spotify",
+      "PaymentMethod": "Cr\u00E9dito",
+      "Installments": "",
+      "ExpenseType": "Essencial",
+      "Category": "Mensalidades",
+      "Value": 13
+    },
+    {
+      "Id": "ab04a98b-1864-4613-be4d-2014f49cbc97",
+      "RecurringId": "c7f371a6-d0e4-4af4-8ebe-0a61c1daa647",
+      "IsRecurring": true,
+      "Month": "2029-01",
+      "Description": "Spotify",
+      "PaymentMethod": "Cr\u00E9dito",
+      "Installments": "",
+      "ExpenseType": "Essencial",
+      "Category": "Mensalidades",
+      "Value": 13
+    },
+    {
+      "Id": "64d5761e-c0c7-4ad9-8af4-c04084bae074",
+      "RecurringId": "c7f371a6-d0e4-4af4-8ebe-0a61c1daa647",
+      "IsRecurring": true,
+      "Month": "2029-02",
+      "Description": "Spotify",
+      "PaymentMethod": "Cr\u00E9dito",
+      "Installments": "",
+      "ExpenseType": "Essencial",
+      "Category": "Mensalidades",
+      "Value": 13
+    },
+    {
+      "Id": "d237007c-b2ce-40d1-bfc5-896fcf3449f5",
+      "RecurringId": "c7f371a6-d0e4-4af4-8ebe-0a61c1daa647",
+      "IsRecurring": true,
+      "Month": "2029-03",
+      "Description": "Spotify",
+      "PaymentMethod": "Cr\u00E9dito",
+      "Installments": "",
+      "ExpenseType": "Essencial",
+      "Category": "Mensalidades",
+      "Value": 13
+    },
+    {
+      "Id": "6fc2e037-a2c9-450c-a490-8e8beca59db0",
+      "RecurringId": "c7f371a6-d0e4-4af4-8ebe-0a61c1daa647",
+      "IsRecurring": true,
+      "Month": "2029-04",
+      "Description": "Spotify",
+      "PaymentMethod": "Cr\u00E9dito",
+      "Installments": "",
+      "ExpenseType": "Essencial",
+      "Category": "Mensalidades",
+      "Value": 13
+    },
+    {
+      "Id": "8bc9015d-703d-4825-b9f6-79b549a92531",
+      "RecurringId": "c7f371a6-d0e4-4af4-8ebe-0a61c1daa647",
+      "IsRecurring": true,
+      "Month": "2029-05",
+      "Description": "Spotify",
+      "PaymentMethod": "Cr\u00E9dito",
+      "Installments": "",
+      "ExpenseType": "Essencial",
+      "Category": "Mensalidades",
+      "Value": 13
+    },
+    {
+      "Id": "c87c3c7d-0986-46db-8539-fa35b9637a97",
+      "RecurringId": "c7f371a6-d0e4-4af4-8ebe-0a61c1daa647",
+      "IsRecurring": true,
+      "Month": "2029-06",
+      "Description": "Spotify",
+      "PaymentMethod": "Cr\u00E9dito",
+      "Installments": "",
+      "ExpenseType": "Essencial",
+      "Category": "Mensalidades",
+      "Value": 13
+    },
+    {
+      "Id": "55ef7c38-ec44-454f-b211-abbde4f4fda2",
+      "RecurringId": "c7f371a6-d0e4-4af4-8ebe-0a61c1daa647",
+      "IsRecurring": true,
+      "Month": "2029-07",
+      "Description": "Spotify",
+      "PaymentMethod": "Cr\u00E9dito",
+      "Installments": "",
+      "ExpenseType": "Essencial",
+      "Category": "Mensalidades",
+      "Value": 13
+    },
+    {
+      "Id": "1c6da463-c7df-45dc-ad3e-068e205f68c0",
+      "RecurringId": "c7f371a6-d0e4-4af4-8ebe-0a61c1daa647",
+      "IsRecurring": true,
+      "Month": "2029-08",
+      "Description": "Spotify",
+      "PaymentMethod": "Cr\u00E9dito",
+      "Installments": "",
+      "ExpenseType": "Essencial",
+      "Category": "Mensalidades",
+      "Value": 13
+    },
+    {
+      "Id": "d432a7ee-7130-4fd8-b5de-c3af7cfbe13b",
+      "RecurringId": "c7f371a6-d0e4-4af4-8ebe-0a61c1daa647",
+      "IsRecurring": true,
+      "Month": "2029-09",
+      "Description": "Spotify",
+      "PaymentMethod": "Cr\u00E9dito",
+      "Installments": "",
+      "ExpenseType": "Essencial",
+      "Category": "Mensalidades",
+      "Value": 13
+    },
+    {
+      "Id": "2e338ae1-6906-4236-93bf-ca6075f011e0",
+      "RecurringId": "c7f371a6-d0e4-4af4-8ebe-0a61c1daa647",
+      "IsRecurring": true,
+      "Month": "2029-10",
+      "Description": "Spotify",
+      "PaymentMethod": "Cr\u00E9dito",
+      "Installments": "",
+      "ExpenseType": "Essencial",
+      "Category": "Mensalidades",
+      "Value": 13
+    },
+    {
+      "Id": "2e629930-a6d2-44cf-939d-4f1c54e0689b",
+      "RecurringId": "c7f371a6-d0e4-4af4-8ebe-0a61c1daa647",
+      "IsRecurring": true,
+      "Month": "2029-11",
+      "Description": "Spotify",
+      "PaymentMethod": "Cr\u00E9dito",
+      "Installments": "",
+      "ExpenseType": "Essencial",
+      "Category": "Mensalidades",
+      "Value": 13
+    },
+    {
+      "Id": "30c0b335-94ee-4196-a44d-b89f57ab4217",
+      "RecurringId": "c7f371a6-d0e4-4af4-8ebe-0a61c1daa647",
+      "IsRecurring": true,
+      "Month": "2029-12",
+      "Description": "Spotify",
+      "PaymentMethod": "Cr\u00E9dito",
+      "Installments": "",
+      "ExpenseType": "Essencial",
+      "Category": "Mensalidades",
+      "Value": 13
+    },
+    {
+      "Id": "5fac4bfe-1d7e-4e92-a5cf-56e17a0ca494",
+      "RecurringId": "c7f371a6-d0e4-4af4-8ebe-0a61c1daa647",
+      "IsRecurring": true,
+      "Month": "2030-01",
+      "Description": "Spotify",
+      "PaymentMethod": "Cr\u00E9dito",
+      "Installments": "",
+      "ExpenseType": "Essencial",
+      "Category": "Mensalidades",
+      "Value": 13
+    },
+    {
+      "Id": "bc4a1ed5-d20e-493c-82f9-3816644cd14b",
+      "RecurringId": "c7f371a6-d0e4-4af4-8ebe-0a61c1daa647",
+      "IsRecurring": true,
+      "Month": "2030-02",
+      "Description": "Spotify",
+      "PaymentMethod": "Cr\u00E9dito",
+      "Installments": "",
+      "ExpenseType": "Essencial",
+      "Category": "Mensalidades",
+      "Value": 13
+    },
+    {
+      "Id": "af8fbf81-7527-4d6b-9be5-6d9a6a5468b5",
+      "RecurringId": "c7f371a6-d0e4-4af4-8ebe-0a61c1daa647",
+      "IsRecurring": true,
+      "Month": "2030-03",
+      "Description": "Spotify",
+      "PaymentMethod": "Cr\u00E9dito",
+      "Installments": "",
+      "ExpenseType": "Essencial",
+      "Category": "Mensalidades",
+      "Value": 13
+    },
+    {
+      "Id": "fdba748f-d0a6-42f8-b915-260f4408907a",
+      "RecurringId": "c7f371a6-d0e4-4af4-8ebe-0a61c1daa647",
+      "IsRecurring": true,
+      "Month": "2030-04",
+      "Description": "Spotify",
+      "PaymentMethod": "Cr\u00E9dito",
+      "Installments": "",
+      "ExpenseType": "Essencial",
+      "Category": "Mensalidades",
+      "Value": 13
+    },
+    {
+      "Id": "4fbf6c5c-b7d5-4d8f-b3b1-ae6df262d266",
+      "RecurringId": "c7f371a6-d0e4-4af4-8ebe-0a61c1daa647",
+      "IsRecurring": true,
+      "Month": "2030-05",
+      "Description": "Spotify",
+      "PaymentMethod": "Cr\u00E9dito",
+      "Installments": "",
+      "ExpenseType": "Essencial",
+      "Category": "Mensalidades",
+      "Value": 13
+    },
+    {
+      "Id": "164d4392-9fc5-4c7d-bb5f-8e1746a0f228",
+      "RecurringId": "c7f371a6-d0e4-4af4-8ebe-0a61c1daa647",
+      "IsRecurring": true,
+      "Month": "2030-06",
+      "Description": "Spotify",
+      "PaymentMethod": "Cr\u00E9dito",
+      "Installments": "",
+      "ExpenseType": "Essencial",
+      "Category": "Mensalidades",
+      "Value": 13
+    },
+    {
+      "Id": "8d4931d9-9192-4b65-ad97-4d4c49ddd521",
+      "RecurringId": "c7f371a6-d0e4-4af4-8ebe-0a61c1daa647",
+      "IsRecurring": true,
+      "Month": "2030-07",
+      "Description": "Spotify",
+      "PaymentMethod": "Cr\u00E9dito",
+      "Installments": "",
+      "ExpenseType": "Essencial",
+      "Category": "Mensalidades",
+      "Value": 13
+    },
+    {
+      "Id": "6b22dd37-ef06-4845-a960-b59b3971a5c2",
+      "RecurringId": "c7f371a6-d0e4-4af4-8ebe-0a61c1daa647",
+      "IsRecurring": true,
+      "Month": "2030-08",
+      "Description": "Spotify",
+      "PaymentMethod": "Cr\u00E9dito",
+      "Installments": "",
+      "ExpenseType": "Essencial",
+      "Category": "Mensalidades",
+      "Value": 13
+    },
+    {
+      "Id": "25226ef0-b890-414c-b757-e573ad53547b",
+      "RecurringId": "c7f371a6-d0e4-4af4-8ebe-0a61c1daa647",
+      "IsRecurring": true,
+      "Month": "2030-09",
+      "Description": "Spotify",
+      "PaymentMethod": "Cr\u00E9dito",
+      "Installments": "",
+      "ExpenseType": "Essencial",
+      "Category": "Mensalidades",
+      "Value": 13
+    },
+    {
+      "Id": "df485bbd-650a-417e-9609-63ed3f80ff3a",
+      "RecurringId": "c7f371a6-d0e4-4af4-8ebe-0a61c1daa647",
+      "IsRecurring": true,
+      "Month": "2030-10",
+      "Description": "Spotify",
+      "PaymentMethod": "Cr\u00E9dito",
+      "Installments": "",
+      "ExpenseType": "Essencial",
+      "Category": "Mensalidades",
+      "Value": 13
+    },
+    {
+      "Id": "7b33b76d-d3cf-488b-9b09-828b221aac55",
+      "RecurringId": "c7f371a6-d0e4-4af4-8ebe-0a61c1daa647",
+      "IsRecurring": true,
+      "Month": "2030-11",
+      "Description": "Spotify",
+      "PaymentMethod": "Cr\u00E9dito",
+      "Installments": "",
+      "ExpenseType": "Essencial",
+      "Category": "Mensalidades",
+      "Value": 13
+    },
+    {
+      "Id": "b1d9a742-b3bd-4b48-b631-bf2d1a1e9dd0",
+      "RecurringId": "c7f371a6-d0e4-4af4-8ebe-0a61c1daa647",
+      "IsRecurring": true,
+      "Month": "2030-12",
+      "Description": "Spotify",
+      "PaymentMethod": "Cr\u00E9dito",
+      "Installments": "",
+      "ExpenseType": "Essencial",
+      "Category": "Mensalidades",
+      "Value": 13
+    },
+    {
+      "Id": "fd29d981-7173-4dad-bc14-2577013d3f39",
+      "RecurringId": "c7f371a6-d0e4-4af4-8ebe-0a61c1daa647",
+      "IsRecurring": true,
+      "Month": "2031-01",
+      "Description": "Spotify",
+      "PaymentMethod": "Cr\u00E9dito",
+      "Installments": "",
+      "ExpenseType": "Essencial",
+      "Category": "Mensalidades",
+      "Value": 13
+    },
+    {
+      "Id": "84277494-c5cf-44ec-b32c-3884903928e7",
+      "RecurringId": "c7f371a6-d0e4-4af4-8ebe-0a61c1daa647",
+      "IsRecurring": true,
+      "Month": "2031-02",
+      "Description": "Spotify",
+      "PaymentMethod": "Cr\u00E9dito",
+      "Installments": "",
+      "ExpenseType": "Essencial",
+      "Category": "Mensalidades",
+      "Value": 13
+    },
+    {
+      "Id": "c972c98b-3ad8-49cd-866e-6fcb007e3de8",
+      "RecurringId": "c7f371a6-d0e4-4af4-8ebe-0a61c1daa647",
+      "IsRecurring": true,
+      "Month": "2031-03",
+      "Description": "Spotify",
+      "PaymentMethod": "Cr\u00E9dito",
+      "Installments": "",
+      "ExpenseType": "Essencial",
+      "Category": "Mensalidades",
+      "Value": 13
+    },
+    {
+      "Id": "e9da9347-d232-43df-8191-d72fc106057a",
+      "RecurringId": "c7f371a6-d0e4-4af4-8ebe-0a61c1daa647",
+      "IsRecurring": true,
+      "Month": "2031-04",
+      "Description": "Spotify",
+      "PaymentMethod": "Cr\u00E9dito",
+      "Installments": "",
+      "ExpenseType": "Essencial",
+      "Category": "Mensalidades",
+      "Value": 13
+    },
+    {
+      "Id": "39afba93-ae70-4d5e-8b08-02e554df3a85",
+      "RecurringId": "c7f371a6-d0e4-4af4-8ebe-0a61c1daa647",
+      "IsRecurring": true,
+      "Month": "2031-05",
+      "Description": "Spotify",
+      "PaymentMethod": "Cr\u00E9dito",
+      "Installments": "",
+      "ExpenseType": "Essencial",
+      "Category": "Mensalidades",
+      "Value": 13
+    },
+    {
+      "Id": "ae88796c-2471-48d6-b810-8c7e72517334",
+      "RecurringId": "c7f371a6-d0e4-4af4-8ebe-0a61c1daa647",
+      "IsRecurring": true,
+      "Month": "2031-06",
+      "Description": "Spotify",
+      "PaymentMethod": "Cr\u00E9dito",
+      "Installments": "",
+      "ExpenseType": "Essencial",
+      "Category": "Mensalidades",
+      "Value": 13
+    },
+    {
+      "Id": "0cd21423-fe8a-49c6-aa61-e228fa6d911e",
+      "RecurringId": "c7f371a6-d0e4-4af4-8ebe-0a61c1daa647",
+      "IsRecurring": true,
+      "Month": "2031-07",
+      "Description": "Spotify",
+      "PaymentMethod": "Cr\u00E9dito",
+      "Installments": "",
+      "ExpenseType": "Essencial",
+      "Category": "Mensalidades",
+      "Value": 13
+    },
+    {
+      "Id": "4c50195b-c561-458f-a81d-13bb1c4c233f",
+      "RecurringId": "c7f371a6-d0e4-4af4-8ebe-0a61c1daa647",
+      "IsRecurring": true,
+      "Month": "2031-08",
+      "Description": "Spotify",
+      "PaymentMethod": "Cr\u00E9dito",
+      "Installments": "",
+      "ExpenseType": "Essencial",
+      "Category": "Mensalidades",
+      "Value": 13
+    },
+    {
+      "Id": "becd7d47-390b-44bb-9211-7f1420493981",
+      "RecurringId": "c7f371a6-d0e4-4af4-8ebe-0a61c1daa647",
+      "IsRecurring": true,
+      "Month": "2031-09",
+      "Description": "Spotify",
+      "PaymentMethod": "Cr\u00E9dito",
+      "Installments": "",
+      "ExpenseType": "Essencial",
+      "Category": "Mensalidades",
+      "Value": 13
+    }
+  ],
+  "Incomes": [
+    {
+      "Id": "b28ba893-8a64-4fe9-b627-c99b1fa86ced",
+      "RecurringId": null,
+      "IsRecurring": false,
+      "Month": "2026-09",
+      "Description": "Sal\u00E1rio",
+      "Category": "Sal\u00E1rio",
+      "Amount": 2778
+    },
+    {
+      "Id": "c75e6680-5b21-4a22-99f7-ee1c5056cd1a",
+      "RecurringId": null,
+      "IsRecurring": false,
+      "Month": "2026-09",
+      "Description": "Vale Refei\u00E7\u00E3o",
+      "Category": "Vale Refei\u00E7\u00E3o",
+      "Amount": 1310
+    },
+    {
+      "Id": "7f41f2ba-2d58-4fa9-8550-e0879a896bd1",
+      "RecurringId": "7c93a321-7101-4dbe-9e97-bae90d7c8f2c",
+      "IsRecurring": true,
+      "Month": "2026-10",
+      "Description": "Sal\u00E1rio",
+      "Category": "Sal\u00E1rio",
+      "Amount": 2778
+    },
+    {
+      "Id": "d61b9265-f8da-4ec9-b4a4-f1622ef05cf4",
+      "RecurringId": "7c93a321-7101-4dbe-9e97-bae90d7c8f2c",
+      "IsRecurring": true,
+      "Month": "2026-11",
+      "Description": "Sal\u00E1rio",
+      "Category": "Sal\u00E1rio",
+      "Amount": 2778
+    },
+    {
+      "Id": "031d9d96-758b-47d7-9f86-d1b0e163c488",
+      "RecurringId": "7c93a321-7101-4dbe-9e97-bae90d7c8f2c",
+      "IsRecurring": true,
+      "Month": "2026-12",
+      "Description": "Sal\u00E1rio",
+      "Category": "Sal\u00E1rio",
+      "Amount": 2778
+    },
+    {
+      "Id": "91adbbd6-eb3c-42a9-8fed-7fdfedb61572",
+      "RecurringId": "7c93a321-7101-4dbe-9e97-bae90d7c8f2c",
+      "IsRecurring": true,
+      "Month": "2027-01",
+      "Description": "Sal\u00E1rio",
+      "Category": "Sal\u00E1rio",
+      "Amount": 2778
+    },
+    {
+      "Id": "6967063b-4a6e-48af-99ba-c42ac5e2e7a8",
+      "RecurringId": "7c93a321-7101-4dbe-9e97-bae90d7c8f2c",
+      "IsRecurring": true,
+      "Month": "2027-02",
+      "Description": "Sal\u00E1rio",
+      "Category": "Sal\u00E1rio",
+      "Amount": 2778
+    },
+    {
+      "Id": "7e42c286-25bf-43eb-a044-2b6e763c07a3",
+      "RecurringId": "7c93a321-7101-4dbe-9e97-bae90d7c8f2c",
+      "IsRecurring": true,
+      "Month": "2027-03",
+      "Description": "Sal\u00E1rio",
+      "Category": "Sal\u00E1rio",
+      "Amount": 2778
+    },
+    {
+      "Id": "6081fd73-fc40-48db-b9eb-7ad0281a08f0",
+      "RecurringId": "7c93a321-7101-4dbe-9e97-bae90d7c8f2c",
+      "IsRecurring": true,
+      "Month": "2027-04",
+      "Description": "Sal\u00E1rio",
+      "Category": "Sal\u00E1rio",
+      "Amount": 2778
+    },
+    {
+      "Id": "c70d9cbd-9bf9-43d2-b6b0-fc8ae0643d2c",
+      "RecurringId": "7c93a321-7101-4dbe-9e97-bae90d7c8f2c",
+      "IsRecurring": true,
+      "Month": "2027-05",
+      "Description": "Sal\u00E1rio",
+      "Category": "Sal\u00E1rio",
+      "Amount": 2778
+    },
+    {
+      "Id": "55d04193-4797-47a7-b53b-691c029f81c8",
+      "RecurringId": "7c93a321-7101-4dbe-9e97-bae90d7c8f2c",
+      "IsRecurring": true,
+      "Month": "2027-06",
+      "Description": "Sal\u00E1rio",
+      "Category": "Sal\u00E1rio",
+      "Amount": 2778
+    },
+    {
+      "Id": "8df5ba60-1144-41d0-a514-63dcca02d7f6",
+      "RecurringId": "7c93a321-7101-4dbe-9e97-bae90d7c8f2c",
+      "IsRecurring": true,
+      "Month": "2027-07",
+      "Description": "Sal\u00E1rio",
+      "Category": "Sal\u00E1rio",
+      "Amount": 2778
+    },
+    {
+      "Id": "b9cf3839-1807-43c9-9102-11c13b89620e",
+      "RecurringId": "7c93a321-7101-4dbe-9e97-bae90d7c8f2c",
+      "IsRecurring": true,
+      "Month": "2027-08",
+      "Description": "Sal\u00E1rio",
+      "Category": "Sal\u00E1rio",
+      "Amount": 2778
+    },
+    {
+      "Id": "d033e74f-e982-4746-9f1d-d42c2bf47c54",
+      "RecurringId": "7c93a321-7101-4dbe-9e97-bae90d7c8f2c",
+      "IsRecurring": true,
+      "Month": "2027-09",
+      "Description": "Sal\u00E1rio",
+      "Category": "Sal\u00E1rio",
+      "Amount": 2778
+    },
+    {
+      "Id": "4e4f5258-1f2c-4bbb-8d8b-c048686687c0",
+      "RecurringId": "7c93a321-7101-4dbe-9e97-bae90d7c8f2c",
+      "IsRecurring": true,
+      "Month": "2027-10",
+      "Description": "Sal\u00E1rio",
+      "Category": "Sal\u00E1rio",
+      "Amount": 2778
+    },
+    {
+      "Id": "31182881-53b6-42d7-8487-18261395dc67",
+      "RecurringId": "7c93a321-7101-4dbe-9e97-bae90d7c8f2c",
+      "IsRecurring": true,
+      "Month": "2027-11",
+      "Description": "Sal\u00E1rio",
+      "Category": "Sal\u00E1rio",
+      "Amount": 2778
+    },
+    {
+      "Id": "8d7ff08d-aeda-408a-8806-dd5a6ae03048",
+      "RecurringId": "7c93a321-7101-4dbe-9e97-bae90d7c8f2c",
+      "IsRecurring": true,
+      "Month": "2027-12",
+      "Description": "Sal\u00E1rio",
+      "Category": "Sal\u00E1rio",
+      "Amount": 2778
+    },
+    {
+      "Id": "158ed2c4-ff0f-4c3c-b237-f7c58671f37d",
+      "RecurringId": "7c93a321-7101-4dbe-9e97-bae90d7c8f2c",
+      "IsRecurring": true,
+      "Month": "2028-01",
+      "Description": "Sal\u00E1rio",
+      "Category": "Sal\u00E1rio",
+      "Amount": 2778
+    },
+    {
+      "Id": "ec5aa373-d522-4ad8-89c6-c6da3a201175",
+      "RecurringId": "7c93a321-7101-4dbe-9e97-bae90d7c8f2c",
+      "IsRecurring": true,
+      "Month": "2028-02",
+      "Description": "Sal\u00E1rio",
+      "Category": "Sal\u00E1rio",
+      "Amount": 2778
+    },
+    {
+      "Id": "2041725b-e138-4ce5-9860-af3dd4955015",
+      "RecurringId": "7c93a321-7101-4dbe-9e97-bae90d7c8f2c",
+      "IsRecurring": true,
+      "Month": "2028-03",
+      "Description": "Sal\u00E1rio",
+      "Category": "Sal\u00E1rio",
+      "Amount": 2778
+    },
+    {
+      "Id": "61a75d36-7a34-4272-b489-29cb799d3326",
+      "RecurringId": "7c93a321-7101-4dbe-9e97-bae90d7c8f2c",
+      "IsRecurring": true,
+      "Month": "2028-04",
+      "Description": "Sal\u00E1rio",
+      "Category": "Sal\u00E1rio",
+      "Amount": 2778
+    },
+    {
+      "Id": "dd060a34-e510-42f2-972b-7ee7938781be",
+      "RecurringId": "7c93a321-7101-4dbe-9e97-bae90d7c8f2c",
+      "IsRecurring": true,
+      "Month": "2028-05",
+      "Description": "Sal\u00E1rio",
+      "Category": "Sal\u00E1rio",
+      "Amount": 2778
+    },
+    {
+      "Id": "c5694ceb-3c7c-425d-94ba-9d0c8310f744",
+      "RecurringId": "7c93a321-7101-4dbe-9e97-bae90d7c8f2c",
+      "IsRecurring": true,
+      "Month": "2028-06",
+      "Description": "Sal\u00E1rio",
+      "Category": "Sal\u00E1rio",
+      "Amount": 2778
+    },
+    {
+      "Id": "009c360a-fc8c-4df9-be8d-95c409c71c57",
+      "RecurringId": "7c93a321-7101-4dbe-9e97-bae90d7c8f2c",
+      "IsRecurring": true,
+      "Month": "2028-07",
+      "Description": "Sal\u00E1rio",
+      "Category": "Sal\u00E1rio",
+      "Amount": 2778
+    },
+    {
+      "Id": "19cdb860-ba26-46e5-9493-d6ffa2b56b81",
+      "RecurringId": "7c93a321-7101-4dbe-9e97-bae90d7c8f2c",
+      "IsRecurring": true,
+      "Month": "2028-08",
+      "Description": "Sal\u00E1rio",
+      "Category": "Sal\u00E1rio",
+      "Amount": 2778
+    },
+    {
+      "Id": "69a471bd-df78-4512-b119-949740f0f3c3",
+      "RecurringId": "7c93a321-7101-4dbe-9e97-bae90d7c8f2c",
+      "IsRecurring": true,
+      "Month": "2028-09",
+      "Description": "Sal\u00E1rio",
+      "Category": "Sal\u00E1rio",
+      "Amount": 2778
+    },
+    {
+      "Id": "d5f1a378-fa25-466c-8b0c-459006c5e004",
+      "RecurringId": "7c93a321-7101-4dbe-9e97-bae90d7c8f2c",
+      "IsRecurring": true,
+      "Month": "2028-10",
+      "Description": "Sal\u00E1rio",
+      "Category": "Sal\u00E1rio",
+      "Amount": 2778
+    },
+    {
+      "Id": "13575d98-e78b-4178-b61f-d4f4ff4e3f09",
+      "RecurringId": "7c93a321-7101-4dbe-9e97-bae90d7c8f2c",
+      "IsRecurring": true,
+      "Month": "2028-11",
+      "Description": "Sal\u00E1rio",
+      "Category": "Sal\u00E1rio",
+      "Amount": 2778
+    },
+    {
+      "Id": "698c6342-9d87-4520-825c-209fb56cffcc",
+      "RecurringId": "7c93a321-7101-4dbe-9e97-bae90d7c8f2c",
+      "IsRecurring": true,
+      "Month": "2028-12",
+      "Description": "Sal\u00E1rio",
+      "Category": "Sal\u00E1rio",
+      "Amount": 2778
+    },
+    {
+      "Id": "36073bcb-8a30-4b70-883a-2e7a61be18ea",
+      "RecurringId": "7c93a321-7101-4dbe-9e97-bae90d7c8f2c",
+      "IsRecurring": true,
+      "Month": "2029-01",
+      "Description": "Sal\u00E1rio",
+      "Category": "Sal\u00E1rio",
+      "Amount": 2778
+    },
+    {
+      "Id": "f2cdbc86-7cef-43be-a3e4-fc9db0e70efb",
+      "RecurringId": "7c93a321-7101-4dbe-9e97-bae90d7c8f2c",
+      "IsRecurring": true,
+      "Month": "2029-02",
+      "Description": "Sal\u00E1rio",
+      "Category": "Sal\u00E1rio",
+      "Amount": 2778
+    },
+    {
+      "Id": "55b2d2e2-be9d-4d3f-816c-5d4e7cd4c357",
+      "RecurringId": "7c93a321-7101-4dbe-9e97-bae90d7c8f2c",
+      "IsRecurring": true,
+      "Month": "2029-03",
+      "Description": "Sal\u00E1rio",
+      "Category": "Sal\u00E1rio",
+      "Amount": 2778
+    },
+    {
+      "Id": "ed6c6b01-6101-4858-a331-a9b31be843f9",
+      "RecurringId": "7c93a321-7101-4dbe-9e97-bae90d7c8f2c",
+      "IsRecurring": true,
+      "Month": "2029-04",
+      "Description": "Sal\u00E1rio",
+      "Category": "Sal\u00E1rio",
+      "Amount": 2778
+    },
+    {
+      "Id": "cc5232ee-542b-4a6d-9ef9-4b62347c0363",
+      "RecurringId": "7c93a321-7101-4dbe-9e97-bae90d7c8f2c",
+      "IsRecurring": true,
+      "Month": "2029-05",
+      "Description": "Sal\u00E1rio",
+      "Category": "Sal\u00E1rio",
+      "Amount": 2778
+    },
+    {
+      "Id": "a9b4c278-eb18-473c-a5ab-96f200234e8d",
+      "RecurringId": "7c93a321-7101-4dbe-9e97-bae90d7c8f2c",
+      "IsRecurring": true,
+      "Month": "2029-06",
+      "Description": "Sal\u00E1rio",
+      "Category": "Sal\u00E1rio",
+      "Amount": 2778
+    },
+    {
+      "Id": "c273efce-3186-471e-a81b-d4b3322553f5",
+      "RecurringId": "7c93a321-7101-4dbe-9e97-bae90d7c8f2c",
+      "IsRecurring": true,
+      "Month": "2029-07",
+      "Description": "Sal\u00E1rio",
+      "Category": "Sal\u00E1rio",
+      "Amount": 2778
+    },
+    {
+      "Id": "29f0e0af-9470-49dd-8f51-25a7e8a7b490",
+      "RecurringId": "7c93a321-7101-4dbe-9e97-bae90d7c8f2c",
+      "IsRecurring": true,
+      "Month": "2029-08",
+      "Description": "Sal\u00E1rio",
+      "Category": "Sal\u00E1rio",
+      "Amount": 2778
+    },
+    {
+      "Id": "4fa6059e-2765-4f14-b077-92af46316171",
+      "RecurringId": "7c93a321-7101-4dbe-9e97-bae90d7c8f2c",
+      "IsRecurring": true,
+      "Month": "2029-09",
+      "Description": "Sal\u00E1rio",
+      "Category": "Sal\u00E1rio",
+      "Amount": 2778
+    },
+    {
+      "Id": "7f39406f-4ed6-4b17-96b4-98037a54a270",
+      "RecurringId": "7c93a321-7101-4dbe-9e97-bae90d7c8f2c",
+      "IsRecurring": true,
+      "Month": "2029-10",
+      "Description": "Sal\u00E1rio",
+      "Category": "Sal\u00E1rio",
+      "Amount": 2778
+    },
+    {
+      "Id": "987cbcb7-92ec-4b92-94aa-3ef979b91645",
+      "RecurringId": "7c93a321-7101-4dbe-9e97-bae90d7c8f2c",
+      "IsRecurring": true,
+      "Month": "2029-11",
+      "Description": "Sal\u00E1rio",
+      "Category": "Sal\u00E1rio",
+      "Amount": 2778
+    },
+    {
+      "Id": "ff288819-8a04-45f0-8acf-311364149651",
+      "RecurringId": "7c93a321-7101-4dbe-9e97-bae90d7c8f2c",
+      "IsRecurring": true,
+      "Month": "2029-12",
+      "Description": "Sal\u00E1rio",
+      "Category": "Sal\u00E1rio",
+      "Amount": 2778
+    },
+    {
+      "Id": "9d9a6273-eda1-45bd-95ab-4765f73e6812",
+      "RecurringId": "7c93a321-7101-4dbe-9e97-bae90d7c8f2c",
+      "IsRecurring": true,
+      "Month": "2030-01",
+      "Description": "Sal\u00E1rio",
+      "Category": "Sal\u00E1rio",
+      "Amount": 2778
+    },
+    {
+      "Id": "e1718aad-a708-4df7-95fb-981b4abdd3ea",
+      "RecurringId": "7c93a321-7101-4dbe-9e97-bae90d7c8f2c",
+      "IsRecurring": true,
+      "Month": "2030-02",
+      "Description": "Sal\u00E1rio",
+      "Category": "Sal\u00E1rio",
+      "Amount": 2778
+    },
+    {
+      "Id": "c08a3121-37b4-4fac-aa2d-b08c43e080d9",
+      "RecurringId": "7c93a321-7101-4dbe-9e97-bae90d7c8f2c",
+      "IsRecurring": true,
+      "Month": "2030-03",
+      "Description": "Sal\u00E1rio",
+      "Category": "Sal\u00E1rio",
+      "Amount": 2778
+    },
+    {
+      "Id": "d4c674a6-b624-47a9-88a2-2932e1d70731",
+      "RecurringId": "7c93a321-7101-4dbe-9e97-bae90d7c8f2c",
+      "IsRecurring": true,
+      "Month": "2030-04",
+      "Description": "Sal\u00E1rio",
+      "Category": "Sal\u00E1rio",
+      "Amount": 2778
+    },
+    {
+      "Id": "3716d61f-f703-4052-ad27-04d9d7bada14",
+      "RecurringId": "7c93a321-7101-4dbe-9e97-bae90d7c8f2c",
+      "IsRecurring": true,
+      "Month": "2030-05",
+      "Description": "Sal\u00E1rio",
+      "Category": "Sal\u00E1rio",
+      "Amount": 2778
+    },
+    {
+      "Id": "597eae8d-30cf-49a1-8ef4-8d85d5ea84f4",
+      "RecurringId": "7c93a321-7101-4dbe-9e97-bae90d7c8f2c",
+      "IsRecurring": true,
+      "Month": "2030-06",
+      "Description": "Sal\u00E1rio",
+      "Category": "Sal\u00E1rio",
+      "Amount": 2778
+    },
+    {
+      "Id": "19c67b9f-d6b6-4359-9afd-981e93a7900f",
+      "RecurringId": "7c93a321-7101-4dbe-9e97-bae90d7c8f2c",
+      "IsRecurring": true,
+      "Month": "2030-07",
+      "Description": "Sal\u00E1rio",
+      "Category": "Sal\u00E1rio",
+      "Amount": 2778
+    },
+    {
+      "Id": "9b0ecbaa-bad2-4fb2-9510-c53b22d76819",
+      "RecurringId": "7c93a321-7101-4dbe-9e97-bae90d7c8f2c",
+      "IsRecurring": true,
+      "Month": "2030-08",
+      "Description": "Sal\u00E1rio",
+      "Category": "Sal\u00E1rio",
+      "Amount": 2778
+    },
+    {
+      "Id": "dc45afae-14e4-489c-bb35-840ec2eed4f0",
+      "RecurringId": "7c93a321-7101-4dbe-9e97-bae90d7c8f2c",
+      "IsRecurring": true,
+      "Month": "2030-09",
+      "Description": "Sal\u00E1rio",
+      "Category": "Sal\u00E1rio",
+      "Amount": 2778
+    },
+    {
+      "Id": "813c0b46-4c30-4093-b819-2069af74fa7d",
+      "RecurringId": "7c93a321-7101-4dbe-9e97-bae90d7c8f2c",
+      "IsRecurring": true,
+      "Month": "2030-10",
+      "Description": "Sal\u00E1rio",
+      "Category": "Sal\u00E1rio",
+      "Amount": 2778
+    },
+    {
+      "Id": "0ae7864d-f137-4534-9041-5f0659f9b1a0",
+      "RecurringId": "7c93a321-7101-4dbe-9e97-bae90d7c8f2c",
+      "IsRecurring": true,
+      "Month": "2030-11",
+      "Description": "Sal\u00E1rio",
+      "Category": "Sal\u00E1rio",
+      "Amount": 2778
+    },
+    {
+      "Id": "b8811850-8891-4bad-aebf-5eb5d3c9784e",
+      "RecurringId": "7c93a321-7101-4dbe-9e97-bae90d7c8f2c",
+      "IsRecurring": true,
+      "Month": "2030-12",
+      "Description": "Sal\u00E1rio",
+      "Category": "Sal\u00E1rio",
+      "Amount": 2778
+    },
+    {
+      "Id": "7dfb1ba7-864c-4e03-a0cf-79303f6a9f00",
+      "RecurringId": "7c93a321-7101-4dbe-9e97-bae90d7c8f2c",
+      "IsRecurring": true,
+      "Month": "2031-01",
+      "Description": "Sal\u00E1rio",
+      "Category": "Sal\u00E1rio",
+      "Amount": 2778
+    },
+    {
+      "Id": "6ce9da20-93b2-45fd-b31a-ce726c75d7cf",
+      "RecurringId": "7c93a321-7101-4dbe-9e97-bae90d7c8f2c",
+      "IsRecurring": true,
+      "Month": "2031-02",
+      "Description": "Sal\u00E1rio",
+      "Category": "Sal\u00E1rio",
+      "Amount": 2778
+    },
+    {
+      "Id": "12d4d23e-06e1-4f8c-8835-287c63e9ce82",
+      "RecurringId": "7c93a321-7101-4dbe-9e97-bae90d7c8f2c",
+      "IsRecurring": true,
+      "Month": "2031-03",
+      "Description": "Sal\u00E1rio",
+      "Category": "Sal\u00E1rio",
+      "Amount": 2778
+    },
+    {
+      "Id": "ed35732b-10f8-4b00-acf8-8aecae3c91e1",
+      "RecurringId": "7c93a321-7101-4dbe-9e97-bae90d7c8f2c",
+      "IsRecurring": true,
+      "Month": "2031-04",
+      "Description": "Sal\u00E1rio",
+      "Category": "Sal\u00E1rio",
+      "Amount": 2778
+    },
+    {
+      "Id": "5a60982f-533a-4967-97db-548445c3c8fb",
+      "RecurringId": "7c93a321-7101-4dbe-9e97-bae90d7c8f2c",
+      "IsRecurring": true,
+      "Month": "2031-05",
+      "Description": "Sal\u00E1rio",
+      "Category": "Sal\u00E1rio",
+      "Amount": 2778
+    },
+    {
+      "Id": "00e16254-c0aa-4fd0-8ce1-17db3317f10b",
+      "RecurringId": "7c93a321-7101-4dbe-9e97-bae90d7c8f2c",
+      "IsRecurring": true,
+      "Month": "2031-06",
+      "Description": "Sal\u00E1rio",
+      "Category": "Sal\u00E1rio",
+      "Amount": 2778
+    },
+    {
+      "Id": "752a051c-a363-4d3f-a413-0503949291b1",
+      "RecurringId": "7c93a321-7101-4dbe-9e97-bae90d7c8f2c",
+      "IsRecurring": true,
+      "Month": "2031-07",
+      "Description": "Sal\u00E1rio",
+      "Category": "Sal\u00E1rio",
+      "Amount": 2778
+    },
+    {
+      "Id": "73d4f777-30d5-4cc4-8e43-0b2123a007bb",
+      "RecurringId": "7c93a321-7101-4dbe-9e97-bae90d7c8f2c",
+      "IsRecurring": true,
+      "Month": "2031-08",
+      "Description": "Sal\u00E1rio",
+      "Category": "Sal\u00E1rio",
+      "Amount": 2778
+    },
+    {
+      "Id": "c604636f-0ba1-476a-99c7-783db394f0f6",
+      "RecurringId": "7c93a321-7101-4dbe-9e97-bae90d7c8f2c",
+      "IsRecurring": true,
+      "Month": "2031-09",
+      "Description": "Sal\u00E1rio",
+      "Category": "Sal\u00E1rio",
+      "Amount": 2778
+    },
+    {
+      "Id": "01e39bbf-60e2-4719-a584-01b512e6bdc6",
+      "RecurringId": "59f6fb17-26d8-47b6-b143-79e3f75a772d",
+      "IsRecurring": true,
+      "Month": "2026-10",
+      "Description": "Vale Refei\u00E7\u00E3o",
+      "Category": "Vale Refei\u00E7\u00E3o",
+      "Amount": 1310
+    },
+    {
+      "Id": "b0656e3b-602b-4525-a0b3-3068bff7cc03",
+      "RecurringId": "59f6fb17-26d8-47b6-b143-79e3f75a772d",
+      "IsRecurring": true,
+      "Month": "2026-11",
+      "Description": "Vale Refei\u00E7\u00E3o",
+      "Category": "Vale Refei\u00E7\u00E3o",
+      "Amount": 1310
+    },
+    {
+      "Id": "6602f0f2-3f7e-4aba-b629-860d6dab5471",
+      "RecurringId": "59f6fb17-26d8-47b6-b143-79e3f75a772d",
+      "IsRecurring": true,
+      "Month": "2026-12",
+      "Description": "Vale Refei\u00E7\u00E3o",
+      "Category": "Vale Refei\u00E7\u00E3o",
+      "Amount": 1310
+    },
+    {
+      "Id": "5f921be6-8fd7-4c34-a278-6201665edf6c",
+      "RecurringId": "59f6fb17-26d8-47b6-b143-79e3f75a772d",
+      "IsRecurring": true,
+      "Month": "2027-01",
+      "Description": "Vale Refei\u00E7\u00E3o",
+      "Category": "Vale Refei\u00E7\u00E3o",
+      "Amount": 1310
+    },
+    {
+      "Id": "d6f8e5f7-46d0-4aa5-b9df-7dc9a194c2b1",
+      "RecurringId": "59f6fb17-26d8-47b6-b143-79e3f75a772d",
+      "IsRecurring": true,
+      "Month": "2027-02",
+      "Description": "Vale Refei\u00E7\u00E3o",
+      "Category": "Vale Refei\u00E7\u00E3o",
+      "Amount": 1310
+    },
+    {
+      "Id": "7089b368-0420-4b53-afea-92cd809fd035",
+      "RecurringId": "59f6fb17-26d8-47b6-b143-79e3f75a772d",
+      "IsRecurring": true,
+      "Month": "2027-03",
+      "Description": "Vale Refei\u00E7\u00E3o",
+      "Category": "Vale Refei\u00E7\u00E3o",
+      "Amount": 1310
+    },
+    {
+      "Id": "cb79fd23-073b-4489-b2f3-06034f549929",
+      "RecurringId": "59f6fb17-26d8-47b6-b143-79e3f75a772d",
+      "IsRecurring": true,
+      "Month": "2027-04",
+      "Description": "Vale Refei\u00E7\u00E3o",
+      "Category": "Vale Refei\u00E7\u00E3o",
+      "Amount": 1310
+    },
+    {
+      "Id": "815045ab-bec4-4457-84d8-b87ca60080c5",
+      "RecurringId": "59f6fb17-26d8-47b6-b143-79e3f75a772d",
+      "IsRecurring": true,
+      "Month": "2027-05",
+      "Description": "Vale Refei\u00E7\u00E3o",
+      "Category": "Vale Refei\u00E7\u00E3o",
+      "Amount": 1310
+    },
+    {
+      "Id": "7b9a9107-c811-4c0d-9c79-1b36ef865803",
+      "RecurringId": "59f6fb17-26d8-47b6-b143-79e3f75a772d",
+      "IsRecurring": true,
+      "Month": "2027-06",
+      "Description": "Vale Refei\u00E7\u00E3o",
+      "Category": "Vale Refei\u00E7\u00E3o",
+      "Amount": 1310
+    },
+    {
+      "Id": "109b76df-f39c-4c7d-883e-a16d158e3a4e",
+      "RecurringId": "59f6fb17-26d8-47b6-b143-79e3f75a772d",
+      "IsRecurring": true,
+      "Month": "2027-07",
+      "Description": "Vale Refei\u00E7\u00E3o",
+      "Category": "Vale Refei\u00E7\u00E3o",
+      "Amount": 1310
+    },
+    {
+      "Id": "29a02d41-bd70-4626-83c4-216a3e23a025",
+      "RecurringId": "59f6fb17-26d8-47b6-b143-79e3f75a772d",
+      "IsRecurring": true,
+      "Month": "2027-08",
+      "Description": "Vale Refei\u00E7\u00E3o",
+      "Category": "Vale Refei\u00E7\u00E3o",
+      "Amount": 1310
+    },
+    {
+      "Id": "bde1ce97-63ad-4c08-8373-af111701e93e",
+      "RecurringId": "59f6fb17-26d8-47b6-b143-79e3f75a772d",
+      "IsRecurring": true,
+      "Month": "2027-09",
+      "Description": "Vale Refei\u00E7\u00E3o",
+      "Category": "Vale Refei\u00E7\u00E3o",
+      "Amount": 1310
+    },
+    {
+      "Id": "dd077ce0-0812-4a57-9c60-5dd70e3a98f6",
+      "RecurringId": "59f6fb17-26d8-47b6-b143-79e3f75a772d",
+      "IsRecurring": true,
+      "Month": "2027-10",
+      "Description": "Vale Refei\u00E7\u00E3o",
+      "Category": "Vale Refei\u00E7\u00E3o",
+      "Amount": 1310
+    },
+    {
+      "Id": "0f29a090-98de-43e2-b702-2a20b083077d",
+      "RecurringId": "59f6fb17-26d8-47b6-b143-79e3f75a772d",
+      "IsRecurring": true,
+      "Month": "2027-11",
+      "Description": "Vale Refei\u00E7\u00E3o",
+      "Category": "Vale Refei\u00E7\u00E3o",
+      "Amount": 1310
+    },
+    {
+      "Id": "88311a48-42f5-468d-a063-1004a46bfcb6",
+      "RecurringId": "59f6fb17-26d8-47b6-b143-79e3f75a772d",
+      "IsRecurring": true,
+      "Month": "2027-12",
+      "Description": "Vale Refei\u00E7\u00E3o",
+      "Category": "Vale Refei\u00E7\u00E3o",
+      "Amount": 1310
+    },
+    {
+      "Id": "bce79446-5f8d-4976-85eb-cddf5d23d563",
+      "RecurringId": "59f6fb17-26d8-47b6-b143-79e3f75a772d",
+      "IsRecurring": true,
+      "Month": "2028-01",
+      "Description": "Vale Refei\u00E7\u00E3o",
+      "Category": "Vale Refei\u00E7\u00E3o",
+      "Amount": 1310
+    },
+    {
+      "Id": "c095d8d4-155b-47e8-9502-1b0cd39fdb15",
+      "RecurringId": "59f6fb17-26d8-47b6-b143-79e3f75a772d",
+      "IsRecurring": true,
+      "Month": "2028-02",
+      "Description": "Vale Refei\u00E7\u00E3o",
+      "Category": "Vale Refei\u00E7\u00E3o",
+      "Amount": 1310
+    },
+    {
+      "Id": "f7baa370-d84e-4336-8dac-19d97e816400",
+      "RecurringId": "59f6fb17-26d8-47b6-b143-79e3f75a772d",
+      "IsRecurring": true,
+      "Month": "2028-03",
+      "Description": "Vale Refei\u00E7\u00E3o",
+      "Category": "Vale Refei\u00E7\u00E3o",
+      "Amount": 1310
+    },
+    {
+      "Id": "323333a2-275d-4a2c-bc2b-aa2c1dea1f85",
+      "RecurringId": "59f6fb17-26d8-47b6-b143-79e3f75a772d",
+      "IsRecurring": true,
+      "Month": "2028-04",
+      "Description": "Vale Refei\u00E7\u00E3o",
+      "Category": "Vale Refei\u00E7\u00E3o",
+      "Amount": 1310
+    },
+    {
+      "Id": "74ded5c7-5ac9-4d4a-bc72-e4768d3273aa",
+      "RecurringId": "59f6fb17-26d8-47b6-b143-79e3f75a772d",
+      "IsRecurring": true,
+      "Month": "2028-05",
+      "Description": "Vale Refei\u00E7\u00E3o",
+      "Category": "Vale Refei\u00E7\u00E3o",
+      "Amount": 1310
+    },
+    {
+      "Id": "20ade2ab-8be8-4e2e-9fee-324f7cea06e2",
+      "RecurringId": "59f6fb17-26d8-47b6-b143-79e3f75a772d",
+      "IsRecurring": true,
+      "Month": "2028-06",
+      "Description": "Vale Refei\u00E7\u00E3o",
+      "Category": "Vale Refei\u00E7\u00E3o",
+      "Amount": 1310
+    },
+    {
+      "Id": "a4c92f31-29d0-4754-b4f2-f3c3e5f84b25",
+      "RecurringId": "59f6fb17-26d8-47b6-b143-79e3f75a772d",
+      "IsRecurring": true,
+      "Month": "2028-07",
+      "Description": "Vale Refei\u00E7\u00E3o",
+      "Category": "Vale Refei\u00E7\u00E3o",
+      "Amount": 1310
+    },
+    {
+      "Id": "e00e4434-2287-40e8-a831-653d3d8c864e",
+      "RecurringId": "59f6fb17-26d8-47b6-b143-79e3f75a772d",
+      "IsRecurring": true,
+      "Month": "2028-08",
+      "Description": "Vale Refei\u00E7\u00E3o",
+      "Category": "Vale Refei\u00E7\u00E3o",
+      "Amount": 1310
+    },
+    {
+      "Id": "2e00b09b-bd51-4b86-806a-efd65c1226e5",
+      "RecurringId": "59f6fb17-26d8-47b6-b143-79e3f75a772d",
+      "IsRecurring": true,
+      "Month": "2028-09",
+      "Description": "Vale Refei\u00E7\u00E3o",
+      "Category": "Vale Refei\u00E7\u00E3o",
+      "Amount": 1310
+    },
+    {
+      "Id": "760f81da-6037-46f5-a77f-c6797f4b4caf",
+      "RecurringId": "59f6fb17-26d8-47b6-b143-79e3f75a772d",
+      "IsRecurring": true,
+      "Month": "2028-10",
+      "Description": "Vale Refei\u00E7\u00E3o",
+      "Category": "Vale Refei\u00E7\u00E3o",
+      "Amount": 1310
+    },
+    {
+      "Id": "baa3178c-84f4-4c7c-a26c-b7b5d0462911",
+      "RecurringId": "59f6fb17-26d8-47b6-b143-79e3f75a772d",
+      "IsRecurring": true,
+      "Month": "2028-11",
+      "Description": "Vale Refei\u00E7\u00E3o",
+      "Category": "Vale Refei\u00E7\u00E3o",
+      "Amount": 1310
+    },
+    {
+      "Id": "e7b1fa0d-450e-423f-a534-6b12d51e07ad",
+      "RecurringId": "59f6fb17-26d8-47b6-b143-79e3f75a772d",
+      "IsRecurring": true,
+      "Month": "2028-12",
+      "Description": "Vale Refei\u00E7\u00E3o",
+      "Category": "Vale Refei\u00E7\u00E3o",
+      "Amount": 1310
+    },
+    {
+      "Id": "54620974-2ddb-4960-96b8-6ec9d76ef98a",
+      "RecurringId": "59f6fb17-26d8-47b6-b143-79e3f75a772d",
+      "IsRecurring": true,
+      "Month": "2029-01",
+      "Description": "Vale Refei\u00E7\u00E3o",
+      "Category": "Vale Refei\u00E7\u00E3o",
+      "Amount": 1310
+    },
+    {
+      "Id": "8ffee079-273f-4671-a8b9-861244eab794",
+      "RecurringId": "59f6fb17-26d8-47b6-b143-79e3f75a772d",
+      "IsRecurring": true,
+      "Month": "2029-02",
+      "Description": "Vale Refei\u00E7\u00E3o",
+      "Category": "Vale Refei\u00E7\u00E3o",
+      "Amount": 1310
+    },
+    {
+      "Id": "5e106cdc-7145-445d-8986-fca4aaf3bca5",
+      "RecurringId": "59f6fb17-26d8-47b6-b143-79e3f75a772d",
+      "IsRecurring": true,
+      "Month": "2029-03",
+      "Description": "Vale Refei\u00E7\u00E3o",
+      "Category": "Vale Refei\u00E7\u00E3o",
+      "Amount": 1310
+    },
+    {
+      "Id": "b411e5f6-6ea6-4048-842c-0aa1c4a97d36",
+      "RecurringId": "59f6fb17-26d8-47b6-b143-79e3f75a772d",
+      "IsRecurring": true,
+      "Month": "2029-04",
+      "Description": "Vale Refei\u00E7\u00E3o",
+      "Category": "Vale Refei\u00E7\u00E3o",
+      "Amount": 1310
+    },
+    {
+      "Id": "363ca336-47da-493d-b379-63da9ccf62b5",
+      "RecurringId": "59f6fb17-26d8-47b6-b143-79e3f75a772d",
+      "IsRecurring": true,
+      "Month": "2029-05",
+      "Description": "Vale Refei\u00E7\u00E3o",
+      "Category": "Vale Refei\u00E7\u00E3o",
+      "Amount": 1310
+    },
+    {
+      "Id": "fee12b3d-da31-482c-9d0c-e5ad7137c7be",
+      "RecurringId": "59f6fb17-26d8-47b6-b143-79e3f75a772d",
+      "IsRecurring": true,
+      "Month": "2029-06",
+      "Description": "Vale Refei\u00E7\u00E3o",
+      "Category": "Vale Refei\u00E7\u00E3o",
+      "Amount": 1310
+    },
+    {
+      "Id": "6f2d712e-c0ef-4b63-be17-d0f81336429f",
+      "RecurringId": "59f6fb17-26d8-47b6-b143-79e3f75a772d",
+      "IsRecurring": true,
+      "Month": "2029-07",
+      "Description": "Vale Refei\u00E7\u00E3o",
+      "Category": "Vale Refei\u00E7\u00E3o",
+      "Amount": 1310
+    },
+    {
+      "Id": "28878b6c-a77f-4240-bb9d-c4c9ce4a4f47",
+      "RecurringId": "59f6fb17-26d8-47b6-b143-79e3f75a772d",
+      "IsRecurring": true,
+      "Month": "2029-08",
+      "Description": "Vale Refei\u00E7\u00E3o",
+      "Category": "Vale Refei\u00E7\u00E3o",
+      "Amount": 1310
+    },
+    {
+      "Id": "1a9dfcf1-3405-4c3f-914d-b6f7226e2e91",
+      "RecurringId": "59f6fb17-26d8-47b6-b143-79e3f75a772d",
+      "IsRecurring": true,
+      "Month": "2029-09",
+      "Description": "Vale Refei\u00E7\u00E3o",
+      "Category": "Vale Refei\u00E7\u00E3o",
+      "Amount": 1310
+    },
+    {
+      "Id": "d350149d-5432-4132-b645-efc50eaa59c2",
+      "RecurringId": "59f6fb17-26d8-47b6-b143-79e3f75a772d",
+      "IsRecurring": true,
+      "Month": "2029-10",
+      "Description": "Vale Refei\u00E7\u00E3o",
+      "Category": "Vale Refei\u00E7\u00E3o",
+      "Amount": 1310
+    },
+    {
+      "Id": "a6a702d7-5089-4ad1-8f44-76bcf740b115",
+      "RecurringId": "59f6fb17-26d8-47b6-b143-79e3f75a772d",
+      "IsRecurring": true,
+      "Month": "2029-11",
+      "Description": "Vale Refei\u00E7\u00E3o",
+      "Category": "Vale Refei\u00E7\u00E3o",
+      "Amount": 1310
+    },
+    {
+      "Id": "676db8a2-9895-446d-8711-0a769a464396",
+      "RecurringId": "59f6fb17-26d8-47b6-b143-79e3f75a772d",
+      "IsRecurring": true,
+      "Month": "2029-12",
+      "Description": "Vale Refei\u00E7\u00E3o",
+      "Category": "Vale Refei\u00E7\u00E3o",
+      "Amount": 1310
+    },
+    {
+      "Id": "20df2f3d-a783-45e0-b51c-2c7e8f23402e",
+      "RecurringId": "59f6fb17-26d8-47b6-b143-79e3f75a772d",
+      "IsRecurring": true,
+      "Month": "2030-01",
+      "Description": "Vale Refei\u00E7\u00E3o",
+      "Category": "Vale Refei\u00E7\u00E3o",
+      "Amount": 1310
+    },
+    {
+      "Id": "a8fcd53f-c983-4dbd-98bf-a5bc13e718cf",
+      "RecurringId": "59f6fb17-26d8-47b6-b143-79e3f75a772d",
+      "IsRecurring": true,
+      "Month": "2030-02",
+      "Description": "Vale Refei\u00E7\u00E3o",
+      "Category": "Vale Refei\u00E7\u00E3o",
+      "Amount": 1310
+    },
+    {
+      "Id": "3a24f685-8c67-4c05-b45a-e898c31fb55e",
+      "RecurringId": "59f6fb17-26d8-47b6-b143-79e3f75a772d",
+      "IsRecurring": true,
+      "Month": "2030-03",
+      "Description": "Vale Refei\u00E7\u00E3o",
+      "Category": "Vale Refei\u00E7\u00E3o",
+      "Amount": 1310
+    },
+    {
+      "Id": "84e73c82-4f05-4c61-b2a2-668bc92b3f0b",
+      "RecurringId": "59f6fb17-26d8-47b6-b143-79e3f75a772d",
+      "IsRecurring": true,
+      "Month": "2030-04",
+      "Description": "Vale Refei\u00E7\u00E3o",
+      "Category": "Vale Refei\u00E7\u00E3o",
+      "Amount": 1310
+    },
+    {
+      "Id": "d90d112f-1bf5-4f39-9303-fc16eecf4f95",
+      "RecurringId": "59f6fb17-26d8-47b6-b143-79e3f75a772d",
+      "IsRecurring": true,
+      "Month": "2030-05",
+      "Description": "Vale Refei\u00E7\u00E3o",
+      "Category": "Vale Refei\u00E7\u00E3o",
+      "Amount": 1310
+    },
+    {
+      "Id": "7c36b4d8-4112-4e7d-8dab-2908a27b944d",
+      "RecurringId": "59f6fb17-26d8-47b6-b143-79e3f75a772d",
+      "IsRecurring": true,
+      "Month": "2030-06",
+      "Description": "Vale Refei\u00E7\u00E3o",
+      "Category": "Vale Refei\u00E7\u00E3o",
+      "Amount": 1310
+    },
+    {
+      "Id": "231af1f5-b378-400f-b7cc-603ccead93bf",
+      "RecurringId": "59f6fb17-26d8-47b6-b143-79e3f75a772d",
+      "IsRecurring": true,
+      "Month": "2030-07",
+      "Description": "Vale Refei\u00E7\u00E3o",
+      "Category": "Vale Refei\u00E7\u00E3o",
+      "Amount": 1310
+    },
+    {
+      "Id": "032624e1-87b4-4563-bea5-058c5c90aa6f",
+      "RecurringId": "59f6fb17-26d8-47b6-b143-79e3f75a772d",
+      "IsRecurring": true,
+      "Month": "2030-08",
+      "Description": "Vale Refei\u00E7\u00E3o",
+      "Category": "Vale Refei\u00E7\u00E3o",
+      "Amount": 1310
+    },
+    {
+      "Id": "efed4ec4-091e-4880-957c-1f80a919e300",
+      "RecurringId": "59f6fb17-26d8-47b6-b143-79e3f75a772d",
+      "IsRecurring": true,
+      "Month": "2030-09",
+      "Description": "Vale Refei\u00E7\u00E3o",
+      "Category": "Vale Refei\u00E7\u00E3o",
+      "Amount": 1310
+    },
+    {
+      "Id": "ff6c2b14-6f20-4c53-875a-7e83bf2f56e4",
+      "RecurringId": "59f6fb17-26d8-47b6-b143-79e3f75a772d",
+      "IsRecurring": true,
+      "Month": "2030-10",
+      "Description": "Vale Refei\u00E7\u00E3o",
+      "Category": "Vale Refei\u00E7\u00E3o",
+      "Amount": 1310
+    },
+    {
+      "Id": "98b73a1b-09c6-4044-b0ff-8efc0621c1c0",
+      "RecurringId": "59f6fb17-26d8-47b6-b143-79e3f75a772d",
+      "IsRecurring": true,
+      "Month": "2030-11",
+      "Description": "Vale Refei\u00E7\u00E3o",
+      "Category": "Vale Refei\u00E7\u00E3o",
+      "Amount": 1310
+    },
+    {
+      "Id": "a0a398e9-594d-4cad-9e3b-308d0ecc01c4",
+      "RecurringId": "59f6fb17-26d8-47b6-b143-79e3f75a772d",
+      "IsRecurring": true,
+      "Month": "2030-12",
+      "Description": "Vale Refei\u00E7\u00E3o",
+      "Category": "Vale Refei\u00E7\u00E3o",
+      "Amount": 1310
+    },
+    {
+      "Id": "b32e300c-8ed6-438d-a548-1a23c1fef236",
+      "RecurringId": "59f6fb17-26d8-47b6-b143-79e3f75a772d",
+      "IsRecurring": true,
+      "Month": "2031-01",
+      "Description": "Vale Refei\u00E7\u00E3o",
+      "Category": "Vale Refei\u00E7\u00E3o",
+      "Amount": 1310
+    },
+    {
+      "Id": "4acc36d4-dd6e-4a86-b8b3-d6610001ab89",
+      "RecurringId": "59f6fb17-26d8-47b6-b143-79e3f75a772d",
+      "IsRecurring": true,
+      "Month": "2031-02",
+      "Description": "Vale Refei\u00E7\u00E3o",
+      "Category": "Vale Refei\u00E7\u00E3o",
+      "Amount": 1310
+    },
+    {
+      "Id": "bf7a26e8-50f6-4b50-b470-295fbc365405",
+      "RecurringId": "59f6fb17-26d8-47b6-b143-79e3f75a772d",
+      "IsRecurring": true,
+      "Month": "2031-03",
+      "Description": "Vale Refei\u00E7\u00E3o",
+      "Category": "Vale Refei\u00E7\u00E3o",
+      "Amount": 1310
+    },
+    {
+      "Id": "c9342180-f4d8-42c7-a1c9-e78adad0d129",
+      "RecurringId": "59f6fb17-26d8-47b6-b143-79e3f75a772d",
+      "IsRecurring": true,
+      "Month": "2031-04",
+      "Description": "Vale Refei\u00E7\u00E3o",
+      "Category": "Vale Refei\u00E7\u00E3o",
+      "Amount": 1310
+    },
+    {
+      "Id": "db9aa558-1c0d-4c0e-b88a-f50d12ebad8b",
+      "RecurringId": "59f6fb17-26d8-47b6-b143-79e3f75a772d",
+      "IsRecurring": true,
+      "Month": "2031-05",
+      "Description": "Vale Refei\u00E7\u00E3o",
+      "Category": "Vale Refei\u00E7\u00E3o",
+      "Amount": 1310
+    },
+    {
+      "Id": "914a13bb-3b60-49ed-8b5c-bce335852963",
+      "RecurringId": "59f6fb17-26d8-47b6-b143-79e3f75a772d",
+      "IsRecurring": true,
+      "Month": "2031-06",
+      "Description": "Vale Refei\u00E7\u00E3o",
+      "Category": "Vale Refei\u00E7\u00E3o",
+      "Amount": 1310
+    },
+    {
+      "Id": "94bb5d5e-5ded-4e05-9a2b-5413c19a8a4f",
+      "RecurringId": "59f6fb17-26d8-47b6-b143-79e3f75a772d",
+      "IsRecurring": true,
+      "Month": "2031-07",
+      "Description": "Vale Refei\u00E7\u00E3o",
+      "Category": "Vale Refei\u00E7\u00E3o",
+      "Amount": 1310
+    },
+    {
+      "Id": "aecedfa5-4e55-462c-b5e1-11de1c331fd4",
+      "RecurringId": "59f6fb17-26d8-47b6-b143-79e3f75a772d",
+      "IsRecurring": true,
+      "Month": "2031-08",
+      "Description": "Vale Refei\u00E7\u00E3o",
+      "Category": "Vale Refei\u00E7\u00E3o",
+      "Amount": 1310
+    },
+    {
+      "Id": "bc1ec4ca-d0df-4df7-b5bb-a721d23cf78a",
+      "RecurringId": "59f6fb17-26d8-47b6-b143-79e3f75a772d",
+      "IsRecurring": true,
+      "Month": "2031-09",
+      "Description": "Vale Refei\u00E7\u00E3o",
+      "Category": "Vale Refei\u00E7\u00E3o",
+      "Amount": 1310
+    }
+  ],
+  "Categories": {
+    "Expense": [
+      "Entretenimento",
+      "Alimenta\u00E7\u00E3o",
+      "Moradia",
+      "Seguro",
+      "Empr\u00E9stimos",
+      "Animais de estima\u00E7\u00E3o",
+      "Impostos",
+      "Transporte",
+      "Educa\u00E7\u00E3o",
+      "Ingl\u00EAs",
+      "Investimentos",
+      "Guardar dinheiro",
+      "Presentes",
+      "Amazon Prime",
+      "Tim",
+      "Luz",
+      "Mercado",
+      "A\u00E7ougue",
+      "Vale Refei\u00E7\u00E3o",
+      "Spotify",
+      "Mensalidades",
+      "Compras",
+      "Internet \u002B TV \u002B Globoplay \u002B Netflix",
+      "Carro",
+      "M\u00E3e mercado",
+      "Seguro cart\u00E3o",
+      "iCloud",
+      "Cuidados pessoais",
+      "Corte de cabelo",
+      "PS Plus",
+      "Academia",
+      "Whey \u002B Creatina"
+    ],
+    "Income": [
+      "Sal\u00E1rio",
+      "Renda extra",
+      "Investimentos",
+      "Freelance",
+      "Outros",
+      "Vale Refei\u00E7\u00E3o"
+    ]
+  }
+}
